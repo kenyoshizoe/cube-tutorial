@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.inc": "cpp",
+        "stm32f3xx_hal.h": "c"
+    }
+}
